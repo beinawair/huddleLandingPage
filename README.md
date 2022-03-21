@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repo](https://github.com/beinawair/interactive-rating-component)
-- Live Site URL: [Live Page](https://beinawair.github.io/interactive-rating-component/)
+- Solution URL: [Repo](https://github.com/beinawair/huddleLandingPage)
+- Live Site URL: [Live Page](https://beinawair.github.io/huddleLandingPage/)
 
 ### Built with
 
